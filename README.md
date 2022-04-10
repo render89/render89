@@ -10,6 +10,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-maroon?style=for-the-badge&logo=html&logoColor=yellow)
 ![CSS](https://img.shields.io/badge/-CSS-maroon?style=for-the-badge&logo=css&logoColor=green)
 ![SASS](https://img.shields.io/badge/-SASS-maroon?style=for-the-badge&logo=sass&logoColor=blue)
-![LESS](https://img.shields.io/badge/-LESS-maroon?style=for-the-badge&logo=less&logoColor=turquoise)
+![LESS](https://img.shields.io/badge/-LESS-maroon?style=for-the-badge&logo=less&logoColor=baige)
 
 ## Follow me
