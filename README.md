@@ -12,5 +12,6 @@
 ![LESS](https://img.shields.io/badge/-LESS-maroon?style=for-the-badge&logo=less&logoColor=baige)
 
 ## Follow Me
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-maroon?style=for-the-badge&logo=linkedIn&logoColor=blue)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-maroon?style=for-the-badge&logo=linkedIn&logoColor=blue)(https://www.linkedin.com/in/renderf/)
+![Instagram](https://img.shields.io/badge/-Instagram-maroon?style=for-the-badge&logo=instagram&logoColor=yellow)(https://www.instagram.com/antonfanin/)
 
