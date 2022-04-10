@@ -7,8 +7,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-maroon?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![React](https://img.shields.io/badge/-React-maroon?style=for-the-badge&logo=React&logoColor=green)
 ![Redux](https://img.shields.io/badge/-Redux-maroon?style=for-the-badge&logo=Redux&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-maroon?style=for-the-badge&logo=JavaScript&logoColor=yellow)
-![JavaScript](https://img.shields.io/badge/-JavaScript-maroon?style=for-the-badge&logo=JavaScript&logoColor=yellow)
-![JavaScript](https://img.shields.io/badge/-JavaScript-maroon?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![HTML](https://img.shields.io/badge/-JavaScript-maroon?style=for-the-badge&logo=html&logoColor=yellow)
+![CSS](https://img.shields.io/badge/-JavaScript-maroon?style=for-the-badge&logo=css&logoColor=yellow)
+![SASS](https://img.shields.io/badge/-SASS-maroon?style=for-the-badge&logo=sass&logoColor=yellow)
+![LESS](https://img.shields.io/badge/-LESS-maroon?style=for-the-badge&logo=less&logoColor=yellow)
 
 ## Follow me
