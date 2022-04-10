@@ -3,7 +3,7 @@
 ## I'm a beginner JavaScript developer
 
 ## Languages and Tools
-<align=center>
+<div align=center>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-maroon?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![React](https://img.shields.io/badge/-React-maroon?style=for-the-badge&logo=React&logoColor=green)
 ![Redux](https://img.shields.io/badge/-Redux-maroon?style=for-the-badge&logo=Redux&logoColor=blue)
@@ -11,6 +11,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-maroon?style=for-the-badge&logo=css3&logoColor=green)
 ![SASS](https://img.shields.io/badge/-SASS-maroon?style=for-the-badge&logo=sass&logoColor=blue)
 ![LESS](https://img.shields.io/badge/-LESS-maroon?style=for-the-badge&logo=less&logoColor=baige)
+</div>
 
 ## Follow Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-maroon?style=for-the-badge&logo=linkedIn&logoColor=blue)](https://www.linkedin.com/in/renderf/)
