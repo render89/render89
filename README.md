@@ -5,6 +5,7 @@
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-maroon?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![React](https://img.shields.io/badge/-React-maroon?style=for-the-badge&logo=React&logoColor=green)
+![English](https://img.shields.io/badge/-English-maroon?style=for-the-badge)
 ![Redux](https://img.shields.io/badge/-Redux-maroon?style=for-the-badge&logo=Redux&logoColor=blue)
 ![HTML](https://img.shields.io/badge/-HTML-maroon?style=for-the-badge&logo=html5&logoColor=yellow)
 ![CSS](https://img.shields.io/badge/-CSS-maroon?style=for-the-badge&logo=css3&logoColor=green)
