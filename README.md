@@ -5,11 +5,12 @@
 ## Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-maroon?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![React](https://img.shields.io/badge/-React-maroon?style=for-the-badge&logo=React&logoColor=green)
-![Redux](https://img.shields.io/badge/-Redux-maroon?style=for-the-badge&logo=Redux&logoColor=blue)
-![HTML](https://img.shields.io/badge/-HTML-maroon?style=for-the-badge&logo=html5&logoColor=yellow)
-![CSS](https://img.shields.io/badge/-CSS-maroon?style=for-the-badge&logo=css3&logoColor=green)
-![SASS](https://img.shields.io/badge/-SASS-maroon?style=for-the-badge&logo=sass&logoColor=blue)
-![LESS](https://img.shields.io/badge/-LESS-maroon?style=for-the-badge&logo=less&logoColor=baige)
+![HTML](https://img.shields.io/badge/-HTML-maroon?style=for-the-badge&logo=html5&logoColor=blue)
+![CSS](https://img.shields.io/badge/-CSS-maroon?style=for-the-badge&logo=css3&logoColor=yellow)
+![SASS](https://img.shields.io/badge/-SASS-maroon?style=for-the-badge&logo=sass&logoColor=green)
+![LESS](https://img.shields.io/badge/-LESS-maroon?style=for-the-badge&logo=less&logoColor=blue)
+![Redux](https://img.shields.io/badge/-Redux-maroon?style=for-the-badge&logo=Redux&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/-TypeScript-maroon?style=for-the-badge&logo=TypeScript&logoColor=green)
 
 ## Languages
 ![English](https://img.shields.io/badge/-English-maroon?style=for-the-badge)
