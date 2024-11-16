@@ -13,7 +13,7 @@
 
 ## Follow Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-maroon?style=for-the-badge&logo=linkedIn&logoColor=blue)](https://www.linkedin.com/in/renderf/)
-[¡[GitHub](https://img.shields.io/badge/-LinkedIn-maroon?style=for-the-badge&logo=linkedIn&logoColor=green)]
+[![GitHub](https://img.shields.io/badge/-GitHub-maroon?style=for-the-badge&logo=linkedIn&logoColor=green)]
 (https://github.com/render89)
 [![Instagram](https://img.shields.io/badge/-Instagram-maroon?style=for-the-badge&logo=instagram&logoColor=yellow)](https://www.instagram.com/antonfanin/)
 
