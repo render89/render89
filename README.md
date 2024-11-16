@@ -1,5 +1,5 @@
 ## Tools
-![Python3](https://img.shields.io/badge/-JavaScript-maroon?style=for-the-badge&logo=Python&logoColor=yellow)
+![Python](https://img.shields.io/badge/-Python-maroon?style=for-the-badge&logo=Python&logoColor=yellow)
 
 ## Languages
 ![English](https://img.shields.io/badge/-English-maroon?style=for-the-badge)
