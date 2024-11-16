@@ -1,7 +1,3 @@
-//![Header](https://github.com/render89/render89/blob/main/Image2.png)
-
-## Python
-
 ## Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-maroon?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 
