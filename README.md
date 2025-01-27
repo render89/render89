@@ -3,7 +3,6 @@
 
 ## Languages
 ![English](https://img.shields.io/badge/-English-maroon?style=for-the-badge)
-![Español](https://img.shields.io/badge/-Español-maroon?style=for-the-badge)
 ![Ukrainian](https://img.shields.io/badge/-Ukrainian-maroon?style=for-the-badge)
 ![Russian](https://img.shields.io/badge/-Russian-maroon?style=for-the-badge)
 
